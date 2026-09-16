@@ -1,0 +1,6 @@
+[build]
+  # No build step — site is plain static HTML/CSS/JS
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "20"
